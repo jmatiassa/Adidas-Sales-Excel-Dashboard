@@ -47,7 +47,8 @@ Descripción del proceso:
 
   Informe del análisis:
 
-  ![image](https://github.com/user-attachments/assets/42f65bf3-2060-4f13-83c8-1038ab9d20b2)
+  ![image](https://github.com/user-attachments/assets/16515589-0ef9-4125-94e7-9f6d43586e6a)
+
 
 
 Se ha construido un cuadro de mando para la empresa Adidas con el objetivo de analizar las ventas de la empresa y sus resultados operativos en los distintos estados de E.E.U.U. a través de los principales distribuidores por los cuales Adidas llega a sus clientes.
@@ -82,7 +83,7 @@ Se ha realizado un análisis de las ventas de los años 2020 y 2021, excluyendo 
 1. Análisis general del negocio
    
 
-![image](https://github.com/user-attachments/assets/11f0745c-c1d8-4ab1-862a-7bd34cb16f5d)
+![image](https://github.com/user-attachments/assets/352ad028-9723-4b3d-802b-6500a1b63ee3)
 
 
 
@@ -96,11 +97,15 @@ Mediante el análisis de los principales indicadores (KPI) del negocio se detect
 
 En el análisis de la evolución del rendimiento operativo por trimestre se detecta que tanto el beneficio operativo como la cifra de ventas han tenido una tendencia similar. Se visualiza un pico en las ventas en el año 2021 y una tendencia alcista de forma general. Estos datos son una muestra de práctica y no tienen por que tener una explicación lógica pero se puede establecer una hipótesis sobre un crecimiento en las ventas. Para ello se analiza en profundidad el año 2020 seleccionando este valor en el filtro y se compara con el año 2021.
 
-![image](https://github.com/user-attachments/assets/c5898b4e-a566-4b71-8f8e-23474e8f99c4)
+![image](https://github.com/user-attachments/assets/9e3b1d99-1edb-4094-a1ba-95e2b5ce5927)
+
+
 
 Durante el año 2020 las ventas trimestrales se mantienen constantes alrededor de los 50M salvo una bajada en el 4º trimestre a los 27K$. Visualizando el resto del dashboard se analiza que del total de unidades vendidas que se han visto anteriormente (2,5K), solo 460K se vendieron en este año. Estos productos fueron distribuidos por West Gear, Foot Locker Walmart, Sports Direct y Kohl's siendo West Gear el máximo distribuidor con una cifra de ventas de 90M$. 
 
-![image](https://github.com/user-attachments/assets/c282b208-cb9f-4965-ab6f-2fee65f9c1e9)
+![image](https://github.com/user-attachments/assets/198ebb0c-0652-48a1-8e73-8d86e8b5723b)
+
+
 
 Comparando los resultados del año 2020 con el año 2021 detectamos que a partir del 1er trimestre ya se visualiza un salto en ventas llegando hasta los 150M$ e incrementándose hasta los 190M$ en el 4º trimestre. Al comparar la distribución ventas por proveedor se visualizan variaciones notables en la lista de distribuidores y en sus ventas. En este momento Foot Locker se situa como el máximo distribuidor en cifra de ventas con 177M$ de cifra de negocio. Adicionalmente al crecimiento general en las ventas detectamos la entrada de Amazon como distribuidor. 
 
@@ -109,13 +114,16 @@ Además del análisis de los distribuidores podemos comprobar que las ventas de 
 Con este análisis, viendo un crecimiento de las ventas en todos los distribuidores, pasando de una cifra de negocios de 182M$  en 2020 a 717M$ en 2021.Podemos concluir definiendo una hipótesis de que las ventas han crecido de forma homogénea en todos los distribuidores y que la marca está teniendo un mayor volumen de ventas en el sector. Por lo tanto sería objeto de análisis el estudio de los datos del sector y el impacto en las campañas de marketing que ha tenido la empresa para poder dar una explicación a este aumento en ventas.
 
 
-3. Análisis de los distribuidores.
+3. Análisis de los distribuidores
 
 El objetivo de analizar los distribuidores trata de detectar cuales son los que más cifra de ventas proporcionan a la empresa y a su vez la rentabilidad de vender en cada uno de ellos. Para ello analizamos los gráficos 2 y 3 donde vemos las distribución del total de ventas, el beneficio operativo y el margen operativo para cada distribuidor.
 
-![image](https://github.com/user-attachments/assets/211282f7-4bc0-4400-9781-2c42b3d26ce9)
+![image](https://github.com/user-attachments/assets/f3f44111-888d-48c5-a02c-63d3e4a8959e)
+
 
 Analizando las ventas detectamos que West gear es la compañía donde más se consigue materializar las ventas con un volumen de 242M$, seguido por Foot Locker (220M$) y Sports Direct (182M$). Estos tres distribuidores también son con los que más beneficio operativo obtiene la compañía. Analizando el margen operativo detectamos una gran diferencia en el margen que se obtiene en el distribuidor Sports direct. En este se consigue un margen del 41% en ventas mientras que en el resto oscila entre el 37% y el 35%. Debido a esto surge la oportunidad de definir una estrategia para aumentar el volumen de ventas en este canal ya que es el más rentable.
+
+4. Análisis de los productos
 
 
 
