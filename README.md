@@ -59,6 +59,35 @@ Los KPI son los siguientes:
 
 Las distribuciones son las siguientes: 
 
+1. Operating performance by quarter: Distribución temporal de la cifra de ventas y el beneficio operativo divididos por trimestresen un gráfico lineal.
+2. Distribution of total sales and operating profit by distributor: Distribución que agrupa las ventas totales y el beneficio operativo para cada distribuidor en un gráfico de columnas agrupadas.
+3. Distribution of operating margin by distributor: Distribución que agrupa los márgenes operativos para cada distribuidor en un gráfico de columnas. Para ello se crea un nuevo campo en la tabla dinámica para calcular el margen dividiendo el beneficio operativo entre la cifra de ventas, de forma que calcule un total para cada fila seleccionada; en este caso el distribuidor.
+4. Distribution of units sold by product: Distribución que agrupa el total de unidades vendidas para cada producto en un diagrama circular.
+5. Distribution of opperating margin by sales method: Distribución que agrupa el margen total de beneficio para canal de distribución mediante un diagrama circular de anillos.
+6. Distribution of total sales and opperating profit by product: Distribució que agrupa el total de cifra de ventas y el beneficio operativo para cada producto vendido mediante un gráfico de columnas agrupadas.
+7. Distribution of operating margin by product: Distribución que agrupa los márgenes operativos para cada producto en un gráfico de columnas.
+
+Los filtros dan dinamismo al gráfico permitiendo ampliar la profunididad del análisis desde diferentes enfoques. Los filtros son los siguientes:
+1. Filtro de month: permite filtrar por mes.
+2. Filtro de Year: permite filtrar por año.
+3. Filtro de quarter: permite filtrar por trimestres.
+4. Filtro de Product: permite filtrar por categoría de producto.
+5. Filtro de Retailer: permite filtrar por distribuidor.
+6. Filtro de State: permite filtrar por estado del país.
+
+Se ha realizado un análisis del negocio para poner a prueba la funcionalidad del dashboard de analítica y se han detectado los siguientes puntos: 
+1. Análisis general del negocio
+![image](https://github.com/user-attachments/assets/0a909441-34ea-4e94-bfd6-711986c91730)
+
+
+Mediante el análisis de los principales indicadores (KPI) del negocio detectamos que del total de ventas de más de 1,1M$ el beneficio operativo es de 465M$, equivalente a un margen operativo de 37%. Estos resultados vienen dados por un volumen de ventas de 2,5M de unidades vendidas a un precio medio por unidad de 45$. Para analizar en detalle estos datos procedemos a analizar las distribuciones.
+2. Análisis temporal del negocio
+![image](https://github.com/user-attachments/assets/4398a39e-0c19-463e-acf1-096fef1b44d3)
+
+Mediante el análisis de la evolución del rendimiento operativo por trimestre detectamos que tanto el beneficio operativo como la cifra de ventas han tenido una tendencia similar. Se visualiza un pico en las ventas en el año 2021 y una tendencia alcista de forma general. Estos datos son una muestra de práctica y no tienen por que tener una explicación lógica pero podemos establecer una hipótesis sobre un crecimiento tan radical en las ventas 
+
+
+
 
   
   
