@@ -89,6 +89,7 @@ Se ha realizado un análisis de las ventas de los años 2020 y 2021, excluyendo 
 
 
 Mediante el análisis de los principales indicadores (KPI) del negocio se detecta que del total de ventas es de aproximadamente 900K$ y el beneficio operativo es de 332K$, equivalente a un margen operativo de 37%. Estos resultados vienen dados por un volumen de ventas de 2.5M unidades vendidas a un precio medio por unidad de 45$. Para analizar en detalle estos datos se procede a analizar las distribuciones.
+
 2. Análisis temporal del negocio
 
 ![image](https://github.com/user-attachments/assets/5e0bd656-cba2-4b5b-afe1-d127553e9c10)
@@ -124,8 +125,13 @@ El objetivo de analizar los distribuidores trata de detectar cuales son los que 
 Analizando las ventas detectamos que West gear es la compañía donde más se consigue materializar las ventas con un volumen de 242M$, seguido por Foot Locker (220M$) y Sports Direct (182M$). Estos tres distribuidores también son con los que más beneficio operativo obtiene la compañía. Analizando el margen operativo detectamos una gran diferencia en el margen que se obtiene en el distribuidor Sports direct. En este se consigue un margen del 41% en ventas mientras que en el resto oscila entre el 37% y el 35%. Debido a esto surge la oportunidad de definir una estrategia para aumentar el volumen de ventas en este canal ya que es el más rentable.
 
 4. Análisis de los productos
+5. 
+El objetivo del análisis de lso productos tene un enfoque similar al análisis de los distribuidores y trata de detectar cuales son los productos con los que la empresa logra una mayor facturación y cuáles son más rentables para la empresa. Para ello se analizan los gráficos 4, 6 y 7; Distribución de unidades vendidas, de ventas, beneficio operativo y margen operativo.
+
+![image](https://github.com/user-attachments/assets/1da6b3be-5249-445c-b444-3578667b617c) ![image](https://github.com/user-attachments/assets/0e3e91e8-6bf0-4628-a580-4ec544db3229)
 
 
+El estudio de estos gráficos muestra que la venta de los productos se reparte de forma porcentual entre un 24% en calzado casual masculino y un 12% en 
 
 
 
