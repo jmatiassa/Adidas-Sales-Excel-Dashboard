@@ -47,6 +47,9 @@ Descripción del proceso:
 
   Informe del análisis:
 
+  ![image](https://github.com/user-attachments/assets/42f65bf3-2060-4f13-83c8-1038ab9d20b2)
+
+
 Se ha construido un cuadro de mando para la empresa Adidas con el objetivo de analizar las ventas de la empresa y sus resultados operativos en los distintos estados de E.E.U.U. a través de los principales distribuidores por los cuales Adidas llega a sus clientes.
 Para tener una visión en profundidad del negocio de Adidas se han diseñado una serie de KPIs, Distribuciones y filtros que nos permiten analizar de forma dinámica los datos y poder obtener información relevante para la toma de decisiones. A continuación se procede a explicar los componentes del cuadro de mando.
 
@@ -75,16 +78,47 @@ Los filtros dan dinamismo al gráfico permitiendo ampliar la profunididad del an
 5. Filtro de Retailer: permite filtrar por distribuidor.
 6. Filtro de State: permite filtrar por estado del país.
 
-Se ha realizado un análisis del negocio para poner a prueba la funcionalidad del dashboard de analítica y se han detectado los siguientes puntos: 
+Se ha realizado un análisis de las ventas de los años 2020 y 2021, excluyendo los datos del año 2022 ya que no representan una imagen fiel del negocio si no que han sido una práctica para añadir los datos al modelo. El objetivo de este análisis es poner a prueba la capacidad de obtención de información de la herramienta y a continuación se muestran los resultados:
 1. Análisis general del negocio
-![image](https://github.com/user-attachments/assets/0a909441-34ea-4e94-bfd6-711986c91730)
+   
+
+![image](https://github.com/user-attachments/assets/11f0745c-c1d8-4ab1-862a-7bd34cb16f5d)
 
 
-Mediante el análisis de los principales indicadores (KPI) del negocio detectamos que del total de ventas de más de 1,1M$ el beneficio operativo es de 465M$, equivalente a un margen operativo de 37%. Estos resultados vienen dados por un volumen de ventas de 2,5M de unidades vendidas a un precio medio por unidad de 45$. Para analizar en detalle estos datos procedemos a analizar las distribuciones.
+
+
+Mediante el análisis de los principales indicadores (KPI) del negocio se detecta que del total de ventas es de aproximadamente 900K$ y el beneficio operativo es de 332K$, equivalente a un margen operativo de 37%. Estos resultados vienen dados por un volumen de ventas de 2.5M unidades vendidas a un precio medio por unidad de 45$. Para analizar en detalle estos datos se procede a analizar las distribuciones.
 2. Análisis temporal del negocio
-![image](https://github.com/user-attachments/assets/4398a39e-0c19-463e-acf1-096fef1b44d3)
 
-Mediante el análisis de la evolución del rendimiento operativo por trimestre detectamos que tanto el beneficio operativo como la cifra de ventas han tenido una tendencia similar. Se visualiza un pico en las ventas en el año 2021 y una tendencia alcista de forma general. Estos datos son una muestra de práctica y no tienen por que tener una explicación lógica pero podemos establecer una hipótesis sobre un crecimiento tan radical en las ventas 
+![image](https://github.com/user-attachments/assets/5e0bd656-cba2-4b5b-afe1-d127553e9c10)
+
+
+
+En el análisis de la evolución del rendimiento operativo por trimestre se detecta que tanto el beneficio operativo como la cifra de ventas han tenido una tendencia similar. Se visualiza un pico en las ventas en el año 2021 y una tendencia alcista de forma general. Estos datos son una muestra de práctica y no tienen por que tener una explicación lógica pero se puede establecer una hipótesis sobre un crecimiento en las ventas. Para ello se analiza en profundidad el año 2020 seleccionando este valor en el filtro y se compara con el año 2021.
+
+![image](https://github.com/user-attachments/assets/c5898b4e-a566-4b71-8f8e-23474e8f99c4)
+
+Durante el año 2020 las ventas trimestrales se mantienen constantes alrededor de los 50M salvo una bajada en el 4º trimestre a los 27K$. Visualizando el resto del dashboard se analiza que del total de unidades vendidas que se han visto anteriormente (2,5K), solo 460K se vendieron en este año. Estos productos fueron distribuidos por West Gear, Foot Locker Walmart, Sports Direct y Kohl's siendo West Gear el máximo distribuidor con una cifra de ventas de 90M$. 
+
+![image](https://github.com/user-attachments/assets/c282b208-cb9f-4965-ab6f-2fee65f9c1e9)
+
+Comparando los resultados del año 2020 con el año 2021 detectamos que a partir del 1er trimestre ya se visualiza un salto en ventas llegando hasta los 150M$ e incrementándose hasta los 190M$ en el 4º trimestre. Al comparar la distribución ventas por proveedor se visualizan variaciones notables en la lista de distribuidores y en sus ventas. En este momento Foot Locker se situa como el máximo distribuidor en cifra de ventas con 177M$ de cifra de negocio. Adicionalmente al crecimiento general en las ventas detectamos la entrada de Amazon como distribuidor. 
+
+Además del análisis de los distribuidores podemos comprobar que las ventas de los productos de Adidas han crecido de forma homogénea y no hay diferencias entre los tipos de productos vendidos anterior y posteriormente. Vemos un incremento en todas las líneas de la marca y por lo tanto se detecta que hay un aumento agregado en la marca, sin focalizarse en una línea de productos en particular.
+
+Con este análisis, viendo un crecimiento de las ventas en todos los distribuidores, pasando de una cifra de negocios de 182M$  en 2020 a 717M$ en 2021.Podemos concluir definiendo una hipótesis de que las ventas han crecido de forma homogénea en todos los distribuidores y que la marca está teniendo un mayor volumen de ventas en el sector. Por lo tanto sería objeto de análisis el estudio de los datos del sector y el impacto en las campañas de marketing que ha tenido la empresa para poder dar una explicación a este aumento en ventas.
+
+
+3. Análisis de los distribuidores.
+
+El objetivo de analizar los distribuidores trata de detectar cuales son los que más cifra de ventas proporcionan a la empresa y a su vez la rentabilidad de vender en cada uno de ellos. Para ello analizamos los gráficos 2 y 3 donde vemos las distribución del total de ventas, el beneficio operativo y el margen operativo para cada distribuidor.
+
+![image](https://github.com/user-attachments/assets/211282f7-4bc0-4400-9781-2c42b3d26ce9)
+
+Analizando las ventas detectamos que West gear es la compañía donde más se consigue materializar las ventas con un volumen de 242M$, seguido por Foot Locker (220M$) y Sports Direct (182M$). Estos tres distribuidores también son con los que más beneficio operativo obtiene la compañía. Analizando el margen operativo detectamos una gran diferencia en el margen que se obtiene en el distribuidor Sports direct. En este se consigue un margen del 41% en ventas mientras que en el resto oscila entre el 37% y el 35%. Debido a esto surge la oportunidad de definir una estrategia para aumentar el volumen de ventas en este canal ya que es el más rentable.
+
+
+
 
 
 
