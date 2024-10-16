@@ -112,7 +112,7 @@ Comparando los resultados del año 2020 con el año 2021 detectamos que a partir
 
 Además del análisis de los distribuidores podemos comprobar que las ventas de los productos de Adidas han crecido de forma homogénea y no hay diferencias entre los tipos de productos vendidos anterior y posteriormente. Vemos un incremento en todas las líneas de la marca y por lo tanto se detecta que hay un aumento agregado en la marca, sin focalizarse en una línea de productos en particular.
 
-Con este análisis, viendo un crecimiento de las ventas en todos los distribuidores, pasando de una cifra de negocios de 182M$  en 2020 a 717M$ en 2021.Podemos concluir definiendo una hipótesis de que las ventas han crecido de forma homogénea en todos los distribuidores y que la marca está teniendo un mayor volumen de ventas en el sector. Por lo tanto sería objeto de análisis el estudio de los datos del sector y el impacto en las campañas de marketing que ha tenido la empresa para poder dar una explicación a este aumento en ventas.
+Con este análisis, viendo un crecimiento de las ventas en todos los distribuidores, pasando de una cifra de negocios de 182M$  en 2020 a 717M$ en 2021, sería objeto de análisis el estudio de los datos del sector y el impacto en las campañas de marketing que ha tenido la empresa para poder dar una explicación a este aumento en ventas.
 
 
 3. Análisis de los distribuidores
@@ -125,15 +125,32 @@ El objetivo de analizar los distribuidores trata de detectar cuales son los que 
 Analizando las ventas detectamos que West gear es la compañía donde más se consigue materializar las ventas con un volumen de 242M$, seguido por Foot Locker (220M$) y Sports Direct (182M$). Estos tres distribuidores también son con los que más beneficio operativo obtiene la compañía. Analizando el margen operativo detectamos una gran diferencia en el margen que se obtiene en el distribuidor Sports direct. En este se consigue un margen del 41% en ventas mientras que en el resto oscila entre el 37% y el 35%. Debido a esto surge la oportunidad de definir una estrategia para aumentar el volumen de ventas en este canal ya que es el más rentable.
 
 4. Análisis de los productos
-5. 
+
 El objetivo del análisis de lso productos tene un enfoque similar al análisis de los distribuidores y trata de detectar cuales son los productos con los que la empresa logra una mayor facturación y cuáles son más rentables para la empresa. Para ello se analizan los gráficos 4, 6 y 7; Distribución de unidades vendidas, de ventas, beneficio operativo y margen operativo.
 
 ![image](https://github.com/user-attachments/assets/1da6b3be-5249-445c-b444-3578667b617c) ![image](https://github.com/user-attachments/assets/0e3e91e8-6bf0-4628-a580-4ec544db3229)
 
 
-El estudio de estos gráficos muestra que la venta de los productos se reparte de forma porcentual entre un 24% en calzado casual masculino y un 12% en 
+El estudio de estos gráficos muestra que la venta de los productos se reparte de forma porcentual entre un 24% en calzado casual masculino y un 12% en ropa masculina. Por lo tanto hay ligeras variaciones en la demanda de productos. Analizando la facturación se detecta que el orden de unidades vendidas no es el mismo que de cifra de negocio. La ropa femenina tiene la segunda cifra más grande con 180M$ mientras que en unidades vendidas ocupa el tercer lugar. En cuanto la rentabilidad, esta oscila entre el 34% y el 40% por lo tango es alta. También se detecta que el calzado casual másculino es el que mayor rentabilidad proporciona a la empresa (40%) por lo que siendo el producto más vendido se situa como el producto principal. Sin embargo hay una oportunidad de crecimiento en el calzado deportivo femenino ya que también presenta una rentabilidad alta (37%) y las ventas (106K$) no consiguen materializarse de la misma forma que lo hace la ropa femenina(179K$).
+
+Por lo tanto se recomienda invertir en la promoción de la venta del calzado casual masculino y ropa femenina a la vez que estudiar vías para aumentar la venta del calzado deportivo femenino debido a la rentabilidad del mismo.
+
+5. Análisis de los canales de distribución
+El estudio del canal de distribución muestra la forma en la que la empresa hace llegar el producto al cliente. El objetivo del mismo es detectar cuales son los más populares para los clientes y cuáles son los más rentables para la empresa. Para ello se estudia el gráfico 5. Distribución del margen por método de venta combinado con el resto de kpi generales mediante el uso de filtros.
+
+![image](https://github.com/user-attachments/assets/ec0f51a4-158a-40a4-8358-923f38edca8a)
+
+El análisis de esta gráfica muestra que hay cierta relevancia entre la venta online y el resto ya que el margen de la venta online se situa en el 39% y outlet y in-store en un 36-37%. Utilizando los filtros detectamos que la venta online tiene una facturación de 247M$, la venta outlet tiene una facturación de 295M$ y la venta InStore tiene una facturación de 356$. En base a estos resultados se recomienda incentivar la venta online.
 
 
+Se plantean las siguientes conclusiones en base al análisis: 
+1.Las ventas de Adidas tienen una tendencia alcista en todos los distribuidores y líneas de productos y se recomienda un anális para explicar la causa de este crecimiento. Las líneas de análisis que se proponen son la evolución del sector y el impacto de las campañas de marketing.
+
+2. Debido al margen del 41% que la emprsa obtiene mediante el distribuidor Sports direct se recomienda diseñar una estrategia para aumentar las ventas a través de esta compañía.
+
+3. Se recomienda invertir en la promoción del calzado casual masculino, la ropa femenina y también se recomienda definir una estrategia para aumentar las ventas del calzado deportivo femenino.
+
+4. Se recomienda implantar una estrategia de e-commerce que posicione al canal de distribución online como principal fuente de ingresos debido a su rentabilidad del 39%.
 
 
 
